@@ -16,7 +16,7 @@
   Dependancies for this application include: express, mysql2, bcrypt, dotenv, express, express-handlebars, express session and sequelize. 
   
   # Usage 
-  To use this application visit this link: 
+  To use this application visit this link: https://mvc-blog-tech.herokuapp.com/
   
   # Licence
   ![License](https://img.shields.io/badge/License-ISC-blue.svg)
