@@ -5,7 +5,7 @@ const exphbs = require('express-handlebars');
 const helpers = require('./utils/helpers');
 
 const app = express();
-const server = require('https').createServer(app);
+const server = require('http').createServer(app);
 const PORT = process.env.PORT || 3001;
 
 const sequelize = require('./config/config');
